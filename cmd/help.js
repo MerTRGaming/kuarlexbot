@@ -15,15 +15,15 @@ exports.run = (client, message, args) => {
           "value": "`oynat` `çağır` `kapat` `kuyruk`"
         },
 	{ "name": "Üye Komutları",
-	  "value": "`ping` `yardım` `sunucubilgi` `avatarım` `bilgi` `botbilgi` `davet` `kullanıcıbilgim` `sunucuresmi`",
+	  "value": "`ping` `yardım` `sunucubilgi` `kurallar` `botbilgi` `davet` `kullanıcıbilgim` `sunucuresmi` `şikayet`",
 	},
         {
           "name": "Yönetici Komutları",
-          "value": "`ayarlar` `ban` `kick` `oylama` `load` `reboot` `reload` `sustur` `temizle` `unban` `unload` `uyar` `yaz`",
+          "value": "`ayarlar` `reboot` `reload` `temizle` `yaz` `rolekle` `rolsil` `kick` `temizle`",
 	},
 	{ 
 	  "name": "Eğlence Komutları",
-	  "value": "`banned` `herkesebendençay` `koş` `yumrukat` `çayaşekerat` `çayiç` `çekiç`"
+	  "value": "`banned`"
         }
       ]
     };
